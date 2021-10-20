@@ -1,9 +1,9 @@
 [
     {
-        "name": "Proyecto 1",
-        "description": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
+        "name": "Calendario validacion y Autenticación de usuarios",
+        "description": "Desarrollando con MERN, y se usaron estilos CSS, para la apariencia.",
         "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
-        "link" : "http://cv.giulianaolmos.guixon.com/"
+        "link" : "https://mern-calendar-jguty.herokuapp.com/login"
     },
     {
         "name": "Proyecto 2",
