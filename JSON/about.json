@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Jair Gutierrez",
+        "profession" : "Full Stack Developer",
+        "photo" : "https://ibb.co/R4nd3JK",
+        "about_me" : "Soy fascinado en el mundo de la tecnologías, me encanta hacer desarrollo web y creo mucho en la colaboración entre comunidades para alcanzar grandes logros y tener el ambiente y ecosistema en mundo tecnologico",
+        "skills": [
+        "Javascript",
+        "NodeJs",
+        "ReactJS",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "MongoDB"
+        ]
+    }
+]
